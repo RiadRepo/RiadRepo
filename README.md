@@ -1,7 +1,9 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)](https://riadbx.info)
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)(https://riadbx.info)
 <h1 align="center">Hi 👋, I'm Riad</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<div align="center">
+  <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riadrepo&label=Profile%20views&color=0e75b6&style=flat" alt="riadrepo" /> </p>
 
