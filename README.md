@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **konnectingdots**
 
-- 💬 Ask me about **MERN , Nextjs**
+- 💬 Ask me about **MERN , Nextjs , Shopify**
 
 - 📫 How to reach me **mrahman@binaryquest.com**
 
